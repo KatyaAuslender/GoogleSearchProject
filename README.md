@@ -1,7 +1,7 @@
 # GoogleSearchProject
 selenium java selenide
 
-По уроку Iakiv Kramarenko https://www.youtube.com/watch?v=gVrvosAU0yg&list=PLWKsep_LKQYqmjDbVl1r-9MkZWlMh8UNf
+На основе урока Iakiv Kramarenko https://www.youtube.com/watch?v=gVrvosAU0yg&list=PLWKsep_LKQYqmjDbVl1r-9MkZWlMh8UNf
 
 Задача тест кейса:
 1) открыть сайт https://google.com/
